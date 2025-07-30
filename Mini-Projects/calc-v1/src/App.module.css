@@ -1,0 +1,8 @@
+.calc{
+    margin: auto;
+    border: 1px black;
+    border-radius: 25px;
+    width: 200px;
+    background-color: antiquewhite;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
