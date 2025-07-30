@@ -1,0 +1,8 @@
+.display{
+    width: 180px;
+    margin: 10px;
+    font-size: 25px;
+    border: 1px black;
+    border-radius: 15px;
+    padding: 10px;
+}
