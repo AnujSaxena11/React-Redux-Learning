@@ -1,0 +1,21 @@
+h1{
+    font-weight: 600;
+    font-size: 45px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+input{
+    width: 100%;
+}
+button{
+    width: 100%;
+}
+
+.todo-list{
+    text-align: left;
+}
+
+.custom-row{
+    margin: 10px 5px;
+}
