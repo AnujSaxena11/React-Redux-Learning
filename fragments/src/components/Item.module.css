@@ -1,0 +1,19 @@
+.itemStyle{
+    background-color: lightgoldenrodyellow;
+}
+
+.customButton{
+    background-color: green;
+    border: 2px black;
+    box-shadow: 0 0 10px green;
+    border-radius: 10px;
+    padding: 5px;
+    width: 50px;
+    color: white;
+    float: right;
+}
+
+.customButton:active {
+    transform: translateY(2px);
+    box-shadow: 0 0 5px darkgreen;
+}
